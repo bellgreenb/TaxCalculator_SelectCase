@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\TaxCalculator_SelectCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6405625B-D2EF-46AB-A760-61FA56CE5288}|TaxCalculator.vbproj|c:\\users\\bellg\\onedrive\\desktop\\past classes\\application development\\taxcalculator_selectcase\\frmcalculatetax.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6405625B-D2EF-46AB-A760-61FA56CE5288}|TaxCalculator.vbproj|solutionrelative:frmcalculatetax.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6405625B-D2EF-46AB-A760-61FA56CE5288}|TaxCalculator.vbproj|C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\TaxCalculator_SelectCase\\frmcalculatetax.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6405625B-D2EF-46AB-A760-61FA56CE5288}|TaxCalculator.vbproj|solutionrelative:frmcalculatetax.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCalculateTax.vb",
+              "DocumentMoniker": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\TaxCalculator_SelectCase\\frmCalculateTax.vb",
+              "RelativeDocumentMoniker": "frmCalculateTax.vb",
+              "ToolTip": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\TaxCalculator_SelectCase\\frmCalculateTax.vb",
+              "RelativeToolTip": "frmCalculateTax.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-19T01:44:39.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCalculateTax.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\TaxCalculator_SelectCase\\frmCalculateTax.vb",
+              "RelativeDocumentMoniker": "frmCalculateTax.vb",
+              "ToolTip": "C:\\Users\\bellg\\OneDrive\\Desktop\\Application Development\\TaxCalculator_SelectCase\\frmCalculateTax.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Application Development\\TaxCalculator_SelectCase\\frmCalculateTax.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-19T01:44:18.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

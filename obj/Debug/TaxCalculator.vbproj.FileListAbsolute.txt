@@ -1,0 +1,36 @@
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\bin\Debug\TaxCalculator.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\obj\Debug\TaxCalculator.vbproj.AssemblyReference.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\obj\Debug\TaxCalculator.frmIncomeTaxCalculator.resources
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\obj\Debug\TaxCalculator.Resources.resources
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\obj\Debug\TaxCalculator.vbproj.GenerateResource.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\obj\Debug\TaxCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\obj\Debug\TaxCalculator.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator\obj\Debug\TaxCalculator.pdb
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\bin\Debug\TaxCalculator.exe.config
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\bin\Debug\TaxCalculator.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\bin\Debug\TaxCalculator.pdb
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\bin\Debug\TaxCalculator.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.vbproj.AssemblyReference.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.frmIncomeTaxCalculator.resources
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.Resources.resources
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.vbproj.GenerateResource.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.exe
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.xml
+C:\Users\bellg\OneDrive\Desktop\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.pdb
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\bin\Debug\TaxCalculator.exe.config
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\bin\Debug\TaxCalculator.exe
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\bin\Debug\TaxCalculator.pdb
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\bin\Debug\TaxCalculator.xml
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.vbproj.AssemblyReference.cache
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.frmIncomeTaxCalculator.resources
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.Resources.resources
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.vbproj.GenerateResource.cache
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.exe
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.xml
+C:\Users\bellg\OneDrive\Desktop\Past classes\Application Development\TaxCalculator_SelectCase\obj\Debug\TaxCalculator.pdb
